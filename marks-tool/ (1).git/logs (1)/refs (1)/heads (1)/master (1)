@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 98822e052a6ea46a5271706f91af820cbc686ed7 Rakshitha <4MU25CS107@gmail.com> 1790232127 +0530	commit (initial): Add README describing the project
+98822e052a6ea46a5271706f91af820cbc686ed7 6ac96a7b4031ba8bd19f2e5ae1c1e528a3f3fd17 Rakshitha <4MU25CS107@gmail.com> 1790232344 +0530	commit: Add marks statistics program
+6ac96a7b4031ba8bd19f2e5ae1c1e528a3f3fd17 1f9af917a1fcc7d1f14bb4360b71c8c4e99dfaab Rakshitha <4MU25CS107@gmail.com> 1790232696 +0530	commit: Add gitignore and env template
+1f9af917a1fcc7d1f14bb4360b71c8c4e99dfaab 48de168319e8769ff81167ebcbd160f0e1b4f768 Rakshitha <4MU25CS107@gmail.com> 1790837126 +0530	commit: Add usage instructions to README
+48de168319e8769ff81167ebcbd160f0e1b4f768 a95996c4ab9255db459631b1749316bc3d52247b Rakshitha <4MU25CS107@gmail.com> 1790837954 +0530	commit: statistical
+a95996c4ab9255db459631b1749316bc3d52247b 27f45fc8c43ea97165808171b14f15ee0d9b6cad Rakshitha <4MU25CS107@gmail.com> 1790838729 +0530	commit: Add lowest mark to the report
+27f45fc8c43ea97165808171b14f15ee0d9b6cad 11b7f62548bac1d7c99d970920f1e356d687a49e Rakshitha <4MU25CS107@gmail.com> 1790840035 +0530	commit (merge): add app file
+11b7f62548bac1d7c99d970920f1e356d687a49e 6e33f4b055f4a5a92228986398ccb86536f5022f Rakshitha <4MU25CS107@gmail.com> 1792045252 +0530	commit: Describe stats.py in a docstring
+6e33f4b055f4a5a92228986398ccb86536f5022f 10d090d4fd2c8613e3d7bbec9fc1bc980b34f516 Rakshitha <4MU25CS107@gmail.com> 1792047096 +0530	commit: Add pass count using PASS_MARK from .env

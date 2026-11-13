@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Rakshitha
+	email = 4MU25CS107@gmail.com
+[credential]
+	helper = 
